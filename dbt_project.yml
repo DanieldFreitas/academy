@@ -41,7 +41,6 @@ models:
     comercial:
       +materialized: table
       intermediate:
-        
       marts:
     staging:
       +materialized: view
